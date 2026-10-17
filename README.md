@@ -1,4 +1,4 @@
-v# Data Analytics Portfolio
+## Data Analytics Portfolio
 
 A collection of end-to-end analytics projects covering SQL modeling, financial analysis, executive dashboarding, and anomaly detection. 
 
