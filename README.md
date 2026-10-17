@@ -20,7 +20,7 @@ A collection of end-to-end analytics projects covering SQL modeling, financial a
 **Key Insights:** AWS drives 57% of operating income. Free cash flow compressed to $11.2B due to heavy capex ($128.3B).
 **Methodology:** Data normalized into SQLite tables. KPI queries built with window functions (`LAG`, `SUM OVER`). QA validation script included in the root of this repo.
 
-![Amazon Dashboard](01_amazon.png)
+![Amazon Dashboard](01_amazon-3.png)
 
 ---
 
@@ -29,7 +29,7 @@ A collection of end-to-end analytics projects covering SQL modeling, financial a
 **Key Insights:** Revenue grew 4.7% to $713.2B, but operating income grew only 1.6%, showing margin pressure. Walmart U.S. generated 76.9% of segment operating income. WMT underperformed the S&P 500 on 4 of 5 recent earnings dates.
 **Methodology:** Formula-driven Excel model extracting data from SEC 10-K and 10-Q filings.
 
-![Walmart Dashboard](02_walmart.png)
+![Walmart Dashboard](02_walmart-1.png)
 
 ---
 
@@ -38,7 +38,7 @@ A collection of end-to-end analytics projects covering SQL modeling, financial a
 **Key Insights:** Revenue grew 18.4% YoY to $108.6B, and net income grew 27.1%. CIB was the primary revenue engine (44.4% of revenue). Corporate margin contracted by 20.6pp.
 **Methodology:** Tidy long-format dataset pivoted into Excel summary tables, with native charts and dynamic KPI cards.
 
-![JPMorgan Dashboard](03_jpmorgan.png)
+![JPMorgan Dashboard](03_jpmorgan-1.png)
 
 ---
 
@@ -56,7 +56,7 @@ A collection of end-to-end analytics projects covering SQL modeling, financial a
 **Key Insights:** Revenue and encounter volume both grew by over 12% YoY. Despite the higher patient volume, ER wait times remained stable (+0.12 min), and patient satisfaction stayed strong at 94.3/100. Outpatient visits accounted for 70% of total encounters.
 **Methodology:** Analyzed a 20,000-row synthetic healthcare encounter dataset to build an executive dashboard tracking financial performance, ER wait time distributions, and department mix.
 
-![Lifevista Dashboard](05_lifevista.png)
+![Lifevista Dashboard](05_lifevista-1.png)
 
 ---
 
